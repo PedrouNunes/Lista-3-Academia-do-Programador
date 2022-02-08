@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\bin\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\bin\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\bin\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\bin\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\bin\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\bin\Debug\net5.0\ref\Exercicio1_Lista3.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\bin\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\obj\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\obj\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\obj\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\obj\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\obj\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\obj\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\obj\Debug\net5.0\ref\Exercicio1_Lista3.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\obj\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 3\Exercicio1_Lista3.ConsoleApp\Exercicio1_Lista3.ConsoleApp\obj\Debug\net5.0\Exercicio1_Lista3.ConsoleApp.genruntimeconfig.cache
