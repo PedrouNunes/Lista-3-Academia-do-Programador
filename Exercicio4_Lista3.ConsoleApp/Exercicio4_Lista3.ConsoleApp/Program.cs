@@ -15,7 +15,7 @@ namespace Exercicio4_Lista3.ConsoleApp
             for (int i = 0; i < 11; i++)
             {  
                 tabuada = A * i;
-                Console.WriteLine(A + " X " + i + " = " + tabuada);
+                Console.WriteLine(i + " X " + A + " = " + tabuada);
             }
         }
     }
